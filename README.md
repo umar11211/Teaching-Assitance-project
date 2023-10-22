@@ -2,7 +2,7 @@
 
 PRCP-1026-Teaching Assistance
 
-Problem Statement: To predict whether TA is native english speaker or not.
+Problem Statement: To predict whether TA is native english speaker or not (binary); 1=English speaker, 2=non-English speaker
 
 Task 1:-Prepare a complete data analysis report on the given data.
 
